@@ -1,0 +1,44 @@
+{
+  "name": "ayncat",
+  "version": "1.0.0",
+  "description": "Real-time controlled animations with JavaScript and TypeScript",
+  "main": "./dist/index.js",
+  "browser": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "docs": "typedoc --entryPoints src --entryPointStrategy expand typedoc.json",
+    "build": "npm run gulp build"
+  },
+  "author": "Jhon Guerrero <garruxx@gmail.com> (Garrux)",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Garruxx/Ayncat.git"
+  },
+  "keywords": [
+    "Animation",
+    "Transition",
+    "typescript",
+    "Javascript",
+    "Animation in real time",
+    "react",
+    "react-animation",
+    "real-time"
+  ],
+  "bugs": {
+    "url": "https://github.com/Garruxx/Ayncat/issues"
+  },
+  "homepage": "https://garruxx.github.io/Ayncat/",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "4.0.2",
+    "gulp-concat": "2.6.1",
+    "gulp-typescript": "5.0.1",
+    "gulp-uglify": "3.0.2",
+    "merge2": "1.4.1",
+    "typedoc": "0.23.15",
+    "typescript": "^4.8.4"
+  }
+}

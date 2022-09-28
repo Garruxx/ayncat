@@ -1,0 +1,4 @@
+{
+    "entryPoints": ["src/typescript"],
+    "out": "docs"
+}
