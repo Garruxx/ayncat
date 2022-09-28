@@ -1,6 +1,6 @@
 {
   "name": "ayncat",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Real-time controlled animations with JavaScript and TypeScript",
   "main": "./dist/index.js",
   "browser": "./dist/index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Garruxx/Ayncat.git"
+    "url": "git+https://github.com/Garruxx/ayncat.git"
   },
   "keywords": [
     "Animation",
