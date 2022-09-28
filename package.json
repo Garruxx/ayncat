@@ -7,7 +7,7 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "docs": "typedoc --entryPoints src --entryPointStrategy expand typedoc.json",
-    "build": "npm run gulp build"
+    "build": "gulp build"
   },
   "author": "Jhon Guerrero <garruxx@gmail.com> (Garrux)",
   "directories": {

@@ -13,10 +13,6 @@ not that they are executed with an action but that their entire execution is con
 
 > yarn add ayncat --save
 
-#### File
-
-> You can use ayncat.all.js file located in dist folder
-
 ## Example
 
 ![image](example.gif)
