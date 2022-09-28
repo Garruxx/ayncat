@@ -176,4 +176,4 @@ Do it like this ✅
 
 [How to use Ayncat](#usage)
 
-[Code documentation](https://garruxx.github.io/Ayncat/)
+[Code documentation](https://garruxx.github.io/ayncat/)
