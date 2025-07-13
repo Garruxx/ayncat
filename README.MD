@@ -9,7 +9,7 @@ not that they are executed with an action but that their entire execution is con
 
 > npm i ayncat --save
 
-#### yanr
+#### yarn
 
 > yarn add ayncat --save
 
